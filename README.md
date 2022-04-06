@@ -10,7 +10,7 @@ Phiên bản có những chức năng sau:
 - Auto buff đậu tự động mặc định Bật
 - Auto login mặc định Bật
 - Auto hiện 8 ô skill mặc định Bật
-- Auto hồi sinh: "ahs" mặc định Bật
+- Auto hồi sinh: `ahs` mặc định Bật
 - Auto cộng chỉ số ra phần file mở file chiso.txt điền thông tin sau đó vào game chát `cs`
 
   chỉ số theo thứ tự  `HP`|`KI`|`SĐ`|`giáp` 
