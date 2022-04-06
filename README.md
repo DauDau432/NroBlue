@@ -1,7 +1,7 @@
 # NroBlue version 2.0.3
 ### [Tải xuống](https://github.com/DauDau432/NroBlue/blob/main/Mod%20NroBlue.zip?raw=true)
 
-Phiên bản có những chức năng sau
+Phiên bản có những chức năng sau:
 - Chát `cheat_5` để tăng tốc độ game 
 - Chát `dark` để đổi màu trời tối
 - Chát `khu` để mở khu nhanh
@@ -12,6 +12,7 @@ Phiên bản có những chức năng sau
 - Auto hiện 8 ô skill mặc định Bật
 - Auto hồi sinh: "ahs" mặc định Bật
 - Auto cộng chỉ số ra phần file mở file chiso.txt điền thông tin sau đó vào game chát `cs`
+
   chỉ số theo thứ tự  HP|KI|SĐ|giáp 
 - Bấm phím `i` để gọi rồng  
 - Bấm `r` -> bấm `d` để auto gọi rồng pass 2   
