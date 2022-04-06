@@ -13,7 +13,7 @@ Phiên bản có những chức năng sau:
 - Auto hồi sinh: "ahs" mặc định Bật
 - Auto cộng chỉ số ra phần file mở file chiso.txt điền thông tin sau đó vào game chát `cs`
 
-  chỉ số theo thứ tự  HP|KI|SĐ|giáp 
+  chỉ số theo thứ tự  `HP`|`KI`|`SĐ`|`giáp` 
 - Bấm phím `i` để gọi rồng  
 - Bấm `r` -> bấm `d` để auto gọi rồng pass 2   
 - Bấm phím `v` để auto đập đồ   
